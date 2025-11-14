@@ -6,9 +6,6 @@
 
 [![Website][ico-website]][link-website]
 [![Twitter][ico-twitter]][link-twitter]
-[![Discord][ico-discord]][link-discord]
-[![Telegram][ico-telegram]][link-telegram]
-![GitHub top language](https://img.shields.io/github/languages/top/iden3/circom)
 
 </div>
 
@@ -22,17 +19,17 @@ The implementations of proving systems are also available in our libraries inclu
 
 circom chan aims to provide developers a holistic framework to construct arithmetic circuits through an easy-to-use interface and abstracting the complexity of the proving mechanisms.
 
-The circom language reference can be found in the [circom chan documentation](https://github.com/Monero-Chan-Foundation/circom-chan/blob/master/mkdocs/docs/circom-language/signals.md).
+The circom language reference can be found in the [circom chan documentation](https://github.com/MonachanFoundation/circom-chan/blob/master/mkdocs/docs/circom-language/signals.md).
 
 At this time there are two available syntax highlighters: [circom Visual Studio Code highlight syntax](https://github.com/iden3/circom-highlighting-vscode) and  [circom Vim highlight syntax](https://github.com/iden3/vim-circom-syntax).
 
 # Documentation
-All documentation is available in the [circom chan documentation](https://github.com/Monero-Chan-Foundation/circom-chan/tree/master/mkdocs/docs), we encourage you to read it. If you are new start with the [Getting started section](https://github.com/Monero-Chan-Foundation/circom-chan/blob/master/mkdocs/docs/getting-started/installation.md).
+All documentation is available in the [circom chan documentation](https://github.com/MonachanFoundation/circom-chan/tree/master/mkdocs/docs), we encourage you to read it. If you are new start with the [Getting started section](https://github.com/MonachanFoundation/circom-chan/blob/master/mkdocs/docs/getting-started/installation.md).
 Basic background on Zero-knowledge proofs can be found on [Background section](https://github.com/Monero-Chan-Foundation/circom-chan/blob/master/mkdocs/docs/background/background.md).
 
 # Install
 
-Refer to [Installation section](https://github.com/Monero-Chan-Foundation/circom-chan/blob/master/mkdocs/docs/getting-started/installation.md)
+Refer to [Installation section](https://github.com/MonachanFoundation/circom-chan/blob/main/mkdocs/docs/getting-started/installation.md)
 
 ## :warning: Deprecation note
 
@@ -48,8 +45,6 @@ CIRCUITS
 + [0xPARC circom chan ECDSA circuit](https://github.com/0xPARC/circom-ecdsa)
 
 TOOLS
-
-+ [repl-chan: an online playground for zk circuits](https://repl.monero-chan.org/)
 
 + [Shield: a development framework for circom chan developers](https://xord.notion.site/SHIELD-5306223ca4f745d19f54b9a5f4004cd6)
 
@@ -69,10 +64,7 @@ More information about the notions of weak and strong safety in circom chan circ
 
 [ico-website]: https://img.shields.io/website?up_color=blue&up_message=monero-chan&url=https%3A%2F%2Fmonero-chan.org
 [ico-twitter]: https://img.shields.io/badge/@MoneroChanSOL-1DA1F2.svg?style=flat-square&logo=x&label=Twitter
-[ico-discord]: https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=discord&label=Discord
-[ico-telegram]: https://img.shields.io/badge/@MoneroChanSOL-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
 
 [link-website]: https://monero-chan.org/
 [link-twitter]: https://twitter.com/MoneroChanSOL
-[link-discord]: https://discord.gg/H7S5S9SEdZ
-[link-telegram]: https://t.me/MoneroChanSOL
+
